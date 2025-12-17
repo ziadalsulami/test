@@ -7,6 +7,8 @@ import RiyadhMetro.Ticketing.TicketingSystem;
 public class main {
     public static void main(String[]args) {
         TicketingSystem system = new TicketingSystem();
+        System.out.println("this is an edit");
+
 
         // system.addPassenger(1, "p1");
         // system.addPassenger(1, "p2");
