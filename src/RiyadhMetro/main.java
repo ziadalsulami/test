@@ -8,6 +8,8 @@ public class main {
     public static void main(String[]args) {
         TicketingSystem system = new TicketingSystem();
         System.out.println("this is an edit");
+        System.out.println("another one");
+        System.out.println("I SIAD ANOTHER ONE");
 
 
         // system.addPassenger(1, "p1");
